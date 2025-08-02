@@ -7,9 +7,9 @@ Project Description:
 This project is a 2D arcade-style dodging game implemented using Processing (Java).
 The player controls a spaceship and avoids incoming space rocks while collecting score to beat the highest score.
 This project is shared as an example to the final project of this COMP1000 unit.
- 
-Semester Topic Integration:
-This project demonstrates core concepts of interactive programming covered in this semester, including:
+
+Unit Topic Integration:
+This project demonstrates core concepts of interactive programming covered in this unit, including:
 
  - Developing good coding habits i.e. indentation, comments, code structure, file management etc.
  - Object-Oriented Programming (OOP): Custom classes for Spaceship, Rock, and Star.
