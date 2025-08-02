@@ -10,6 +10,8 @@ This project is shared as an example to the final project of this COMP1000 unit.
  
 Semester Topic Integration:
 This project demonstrates core concepts of interactive programming covered in this semester, including:
+
+ - Developing good coding habits i.e. indentation, comments, code structure, file management etc.
  - Object-Oriented Programming (OOP): Custom classes for Spaceship, Rock, and Star.
  - 2D Graphics: Use of Processing shapes (ellipse, triangle) to draw objects.
  - Event Handling: Real-time user input through keyboard (WASD/Arrow keys, SPACE, R).
