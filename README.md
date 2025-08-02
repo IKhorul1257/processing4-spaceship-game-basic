@@ -1,7 +1,7 @@
-Macquarie University
-COMP1000 Programming Project - Spaceship Game
-Author Name: Iftakharul Islam
-Degree: BSc.IT(AI)
+	Macquarie University
+	COMP1000 Programming Project - Spaceship Game
+	Author Name: Iftakharul Islam
+	Degree: BSc.IT(AI)
  
 Project Description:
 This project is a 2D arcade-style dodging game implemented using Processing (Java).
